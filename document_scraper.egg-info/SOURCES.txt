@@ -1,0 +1,14 @@
+README.md
+setup.py
+document_scraper/__init__.py
+document_scraper/cli.py
+document_scraper/converter.py
+document_scraper/scraper.py
+document_scraper/utils.py
+document_scraper.egg-info/PKG-INFO
+document_scraper.egg-info/SOURCES.txt
+document_scraper.egg-info/dependency_links.txt
+document_scraper.egg-info/entry_points.txt
+document_scraper.egg-info/not-zip-safe
+document_scraper.egg-info/requires.txt
+document_scraper.egg-info/top_level.txt

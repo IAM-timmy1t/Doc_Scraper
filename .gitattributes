@@ -1,0 +1,1 @@
+doc_scrape_GUI/gui_debug.log filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,26 @@
+{
+  "recent_urls": [
+    "https://www.nushell.sh/book/getting_started.html",
+    "https://docs.anthropic.com/en/docs/welcome",
+    "https://docs.cursor.com/get-started/welcome"
+  ],
+  "last_url": "https://www.nushell.sh/book/getting_started.html",
+  "output_dir": "Z:/.CodingProjects/GitHub_Repos/QUANT_AGI_TD/.Scraped_Docs",
+  "max_depth": 10,
+  "delay": 0.5,
+  "max_pages": 0,
+  "concurrent_requests": 4,
+  "include_assets": false,
+  "browser_mode": true,
+  "interactive_mode": true,
+  "doc_priority": true,
+  "user_agent": "",
+  "proxy": "",
+  "timeout": 30,
+  "retries": 3,
+  "include_content": "",
+  "exclude_content": "",
+  "include_url": "",
+  "exclude_url": "",
+  "verbose": false
+}

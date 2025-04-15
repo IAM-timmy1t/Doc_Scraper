@@ -1,0 +1,2 @@
+[console_scripts]
+docscraper = document_scraper.cli:main
